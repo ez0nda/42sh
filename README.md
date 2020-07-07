@@ -38,11 +38,11 @@
   - expansions simples
   
 * Gestion du job control
- Built-ins :
+ * Built-ins :
     - job
     - fg
     - bg
- Opérateur &
+ * Opérateur &
   
 * Gestion de tous les signaux
 
@@ -59,10 +59,10 @@
 * Substitution de commande $()
 
 * Table de hachage
- Built-in :
+ * Built-in :
     - hash
     
 * Gestion des alias
- Built-in :
+ * Built-in :
     - alias
     - unalias
