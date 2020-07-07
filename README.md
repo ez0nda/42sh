@@ -37,12 +37,10 @@
   - assignement temporaire
   - expansions simples
   
-* Gestion du job control
- - Built-ins :
-    - job
-    - fg
-    - bg
- - Opérateur &
+* Gestion du job control    - job
+  - fg
+  - bg
+  - Opérateur &
   
 * Gestion de tous les signaux
 
@@ -59,10 +57,8 @@
 * Substitution de commande $()
 
 * Table de hachage
- - Built-in :
-    - hash
+  - hash
     
 * Gestion des alias
- - Built-in :
-    - alias
-    - unalias
+  - alias
+  - unalias
