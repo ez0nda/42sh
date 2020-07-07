@@ -1,14 +1,15 @@
-Shell complet reprenant la plupart des options POISX
+            Shell complet reprenant la plupart des options POISX
+
 
 * Edition de ligne via TERMCAPS
 
 * Oprérateurs de redirection et d'aggrégation :
-  - >
-  - <
-  - >>
-  - <<
-  - >&
-  - <&
+  - '>'
+  - '<'
+  - '>>'
+  - '<<'
+  - '>&'
+  - '<&'
   
 * Pipes |
 
