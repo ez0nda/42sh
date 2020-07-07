@@ -10,14 +10,14 @@
   - '<<'
   - '>&'
   - '<&'
-  
+
 * Pipes |
 
 * Séparateurs ;
 
 * Opératueurs logiques && et ||
 
-* Built-ins (options POSIX):
+* Built-ins (options POSIX) :
   - cd
   - echo
   - type
@@ -36,13 +36,13 @@
   - paramètres positionnels
   - assignement temporaire
   - expansions simples
-  
-* Gestion du job control    
+
+* Gestion du job control
   - job
   - fg
   - bg
   - Opérateur &
-  
+
 * Gestion de tous les signaux
 
 * Inhibiteurs " (double quote), ' (simple quote), \ (backslash)
@@ -59,7 +59,7 @@
 
 * Table de hachage
   - hash
-    
+
 * Gestion des alias
   - alias
   - unalias
