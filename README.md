@@ -37,7 +37,8 @@
   - assignement temporaire
   - expansions simples
   
-* Gestion du job control    - job
+* Gestion du job control    
+  - job
   - fg
   - bg
   - Opérateur &
