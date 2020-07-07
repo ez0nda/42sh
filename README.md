@@ -17,7 +17,7 @@
 
 * Opératueurs logiques && et ||
 
-* Built-ins :
+* Built-ins (options POSIX):
   - cd
   - echo
   - type
